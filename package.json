@@ -1,0 +1,16 @@
+{
+  "name": "js-sticky-side",
+  "version": "1.0.2",
+  "description": "sticky element in flex parent container",
+  "main": "src/sticky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "sticky",
+    "js"
+  ],
+  "author": "milad nazari",
+  "license": "MIT"
+}
